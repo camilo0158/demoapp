@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <p>Este es una app de prueba</p>
+            <p>Este es una app de prueba secundaria</p>
         </div>
     </form>
 </body>
